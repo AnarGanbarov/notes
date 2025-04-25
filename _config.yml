@@ -1,0 +1,16 @@
+theme: jekyll-theme-cayman  # Или другая простая тема: minimal, slate, etc.
+markdown: GFM
+
+# Включаем автоматическую генерацию навигации
+defaults:
+  - scope:
+      path: "" 
+    values:
+      layout: default
+
+# Включаем Jekyll collections, чтобы поддерживать папки
+collections:
+  about:
+    output: true
+  Маркетинг:
+    output: true
