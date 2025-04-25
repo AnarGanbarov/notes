@@ -1,7 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
-title: Главная
 repository_url: ""
+title: Главная
 markdown: GFM
+# Вместо ссылки на сайт https://github.com/just-the-docs/just-the-docs
+footer_content: "© 2025 Все права защищены."
 
 # Включаем автоматическую генерацию навигации
 defaults:
