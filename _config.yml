@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman  # Или другая простая тема: minimal, slate, etc.
+remote_theme: pmarsceill/just-the-docs
 markdown: GFM
 
 # Включаем автоматическую генерацию навигации
