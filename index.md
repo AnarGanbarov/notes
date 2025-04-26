@@ -8,6 +8,7 @@ nav_order: 1
 Выберите нужный раздел в меню слева.
 
 # Поиск по сайту
+{% raw %}
 <div id="search"></div>
 <link href="https://unpkg.com/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="https://unpkg.com/pagefind/pagefind-ui.js"></script>
@@ -52,5 +53,4 @@ nav_order: 1
     background: #f9f9f9;
   }
 </style>
-
-
+{% endraw %}
