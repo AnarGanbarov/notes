@@ -10,17 +10,17 @@ nav_order: 1
 # Поиск по сайту
 
 <div id="search"></div>
-
+<div id="search"></div>
+<div id="search"></div>
 <link href="https://unpkg.com/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="https://unpkg.com/pagefind/pagefind-ui.js"></script>
-
 
 <script>
   window.addEventListener('DOMContentLoaded', (event) => {
     new PagefindUI({
       element: "#search",
-      showImages: false, // отключаем картинки в результатах
-      resetStyles: false, // используем свои стили
+      showImages: false,
+      resetStyles: false,
       translations: {
         placeholder: "Искать...",
         button: "Поиск",
@@ -55,4 +55,5 @@ nav_order: 1
     background: #f9f9f9;
   }
 </style>
+
 
