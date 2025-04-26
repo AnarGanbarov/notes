@@ -9,3 +9,4 @@ has_children: true
 Выберите подраздел:
 - [Установка](install.md)
 - [Использование](usage.md)
+- [Расширенные настройки](advanced/index.md)
