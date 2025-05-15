@@ -1,6 +1,6 @@
 ---
 title: Руководства
-nav_order: 3
+nav_order: 91
 has_children: true
 ---
 
